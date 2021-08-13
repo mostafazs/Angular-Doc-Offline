@@ -24,6 +24,7 @@
   
       alert(`Downloaded ${lazyUrls.length} URLs in ${duration}s. (${failedCount} failed.)`);
     }
+    alert("Done Successfully");
   } catch (err) {
     console.error(err);
     alert(`An error occurred:\n\n${err.stack}`);

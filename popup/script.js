@@ -20,4 +20,3 @@ const executing = browser.tabs.executeScript({
 });
 executing.then(onExecuted, onError);
 
-

@@ -1,5 +1,9 @@
 html, body {
-  width: 100px;
+  
+}
+p{
+	width: 400px !important;
+  height:80px !important;
 }
 
 .hidden {

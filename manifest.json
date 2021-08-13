@@ -3,7 +3,7 @@
   "description": "Fetch guides, API docs, etc on https://angular.io or https://next.angular.io with the use of ServiceWorker and cache them in the browser so you can browse it angular document offline without internet access. It May did not work correctly, use it at your own risk.",
   "manifest_version": 2,
   "name": "Angular Doc Offline",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author":"Mostafa",
   "icons": {
     "48": "icons/Angular-48.png"
